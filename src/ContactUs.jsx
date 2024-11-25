@@ -40,7 +40,7 @@ const ProgrammerInfo = () => {
 
   return (
     <div style={styles.body}>
-      <h1 style={styles.title}>SparkTech</h1>
+      <h1 style={styles.title}>LGU-SB-Management-Platform-SparkTech</h1>
       <div style={styles.memberContainer}>
         {members.map((member, index) => (
           <div key={index} style={styles.member}>
